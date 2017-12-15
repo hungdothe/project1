@@ -5,6 +5,10 @@ WP-Cache Config Sample File
 See wp-cache.php for author details.
 */
 
+$dismiss_readable_warning = 1;
+$wp_cache_home_path = '/project1/';
+$wp_cache_slash_check = 1;
+$cache_page_secret = 'e4b2ad23055ae03ece24407e412e3082';
 $cache_time_interval = 600;
 if ( ! defined('WPCACHEHOME') )
 	define( 'WPCACHEHOME', WP_CONTENT_DIR . "/plugins/wp-super-cache/" );
@@ -32,7 +36,7 @@ $cache_rebuild_files = 1;
 $wp_cache_mutex_disabled = 1;
 
 // Just modify it if you have conflicts with semaphores
-$sem_id = 5419;
+$sem_id = 2127707485;
 
 if ( '/' != substr($cache_path, -1)) {
 	$cache_path .= '/';
@@ -79,7 +83,7 @@ $wp_cache_not_logged_in = 0;
 $wp_cache_clear_on_post_edit = 0;
 $wp_cache_hello_world = 0;
 $wp_cache_mobile_enabled = 0;
-$wp_cache_cron_check = 0;
+$wp_cache_cron_check = 1;
 $wp_cache_mfunc_enabled = 0;
 $wp_cache_make_known_anon = 0;
 $wp_cache_refresh_single_only = 0;
