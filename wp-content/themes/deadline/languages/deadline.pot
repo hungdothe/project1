@@ -1,0 +1,701 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Deadline\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Mon May 16 2016 15:45:27 GMT+0300 (E. Europe Daylight "
+"Time)\n"
+"POT-Revision-Date: Tue Apr 11 2017 13:52:57 GMT+0200 (W. Europe Daylight "
+"Time)\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: ../404.php:23
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:24
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: ../404.php:44
+msgid "Popular Categories"
+msgstr ""
+
+#: ../archive.php:48 ../index.php:61 ../search.php:46
+msgid "Older Posts"
+msgstr ""
+
+#: ../archive.php:49 ../index.php:62 ../search.php:47
+msgid "Newer Posts"
+msgstr ""
+
+#: ../comments.php:33
+#, php-format
+msgctxt "comments title"
+msgid "One Reply to &ldquo;%s&rdquo;"
+msgstr ""
+
+#. translators: 1: number of comments, 2: post title
+#: ../comments.php:37
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Reply to &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Replies to &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../comments.php:53 ../comments.php:74
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:56 ../comments.php:77
+msgid "Older Comments"
+msgstr ""
+
+#: ../comments.php:57 ../comments.php:78
+msgid "Newer Comments"
+msgstr ""
+
+#: ../comments.php:90
+msgid "Comments are closed."
+msgstr ""
+
+#: ../footer.php:42
+msgid "Copyright &copy;"
+msgstr ""
+
+#: ../footer.php:42
+msgid "Y"
+msgstr ""
+
+#: ../footer.php:42
+msgid "All Rights Reserved"
+msgstr ""
+
+#: ../footer.php:43
+msgid "Theme by"
+msgstr ""
+
+#: ../footer.php:43
+msgid "Magazine WordPress Themes"
+msgstr ""
+
+#: ../functions.php:54
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:55
+msgid "Secondary Menu"
+msgstr ""
+
+#: ../functions.php:56
+msgid "Footer Menu"
+msgstr ""
+
+#: ../functions.php:118
+msgid "Main Sidebar"
+msgstr ""
+
+#: ../functions.php:120
+msgid "This is the main sidebar area that appears on all pages"
+msgstr ""
+
+#: ../functions.php:128
+msgid "Footer: Column 1"
+msgstr ""
+
+#: ../functions.php:130 ../functions.php:140 ../functions.php:150 ../functions.
+#: php:160
+msgid ""
+"This is displayed in the footer of the website. By default has a width of "
+"245px."
+msgstr ""
+
+#: ../functions.php:138
+msgid "Footer: Column 2"
+msgstr ""
+
+#: ../functions.php:148
+msgid "Footer: Column 3"
+msgstr ""
+
+#: ../functions.php:158
+msgid "Footer: Column 4"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Merriweather, translate this to 'off'. Do not translate into your own language.
+#: ../functions.php:197
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#. translators: If there are characters in your language that are not supported by Montserrat, translate this to 'off'. Do not translate into your own language.
+#: ../functions.php:202
+msgctxt "Roboto Condensed font: on or off"
+msgid "on"
+msgstr ""
+
+#: ../functions.php:245
+msgctxt "The main label for the expandable mobile menu"
+msgid "HOME"
+msgstr ""
+
+#: ../header.php:23
+msgid "Skip to content"
+msgstr ""
+
+#: ../inc/class-dotorg-plugin-review.php:65
+#, php-format
+msgid "%s years"
+msgstr ""
+
+#: ../inc/class-dotorg-plugin-review.php:67
+msgid "a year"
+msgstr ""
+
+#: ../inc/class-dotorg-plugin-review.php:73
+#, php-format
+msgid "%s weeks"
+msgstr ""
+
+#: ../inc/class-dotorg-plugin-review.php:75
+msgid "a week"
+msgstr ""
+
+#: ../inc/class-dotorg-plugin-review.php:81
+#, php-format
+msgid "%s days"
+msgstr ""
+
+#: ../inc/class-dotorg-plugin-review.php:83
+msgid "a day"
+msgstr ""
+
+#: ../inc/class-dotorg-plugin-review.php:89
+#, php-format
+msgid "%s hours"
+msgstr ""
+
+#: ../inc/class-dotorg-plugin-review.php:91
+msgid "an hour"
+msgstr ""
+
+#: ../inc/class-dotorg-plugin-review.php:97
+#, php-format
+msgid "%s minutes"
+msgstr ""
+
+#: ../inc/class-dotorg-plugin-review.php:99
+msgid "a minute"
+msgstr ""
+
+#: ../inc/class-dotorg-plugin-review.php:105
+#, php-format
+msgid "%s seconds"
+msgstr ""
+
+#: ../inc/class-dotorg-plugin-review.php:107
+msgid "a second"
+msgstr ""
+
+#: ../inc/class-dotorg-plugin-review.php:151
+#, php-format
+msgid ""
+"You have been using the %s theme for %s now, do you like it? If so, please "
+"leave us a review/rating with your feedback!"
+msgstr ""
+
+#: ../inc/class-dotorg-plugin-review.php:153
+msgid "Leave A Review"
+msgstr ""
+
+#: ../inc/class-dotorg-plugin-review.php:153
+msgid "No thanks."
+msgstr ""
+
+#: ../inc/customizer.php:66
+msgid "Theme Documentation"
+msgstr ""
+
+#: ../inc/customizer.php:71
+msgid "Support Forum"
+msgstr ""
+
+#: ../inc/customizer.php:76
+msgid "Rate Deadline (thanks!)"
+msgstr ""
+
+#: ../inc/customizer.php:81
+msgid "Subscribe to our Newsletter"
+msgstr ""
+
+#: ../inc/customizer.php:96
+msgid "Theme Help & Support"
+msgstr ""
+
+#: ../inc/customizer.php:127
+msgid "Page Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:137
+msgid "Header Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:147
+msgid "Footer Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:161
+msgid "Link Color"
+msgstr ""
+
+#: ../inc/customizer.php:172
+msgid "Link Color :hover"
+msgstr ""
+
+#: ../inc/customizer.php:183
+msgid "Main Text Color"
+msgstr ""
+
+#: ../inc/customizer.php:194
+msgid "Secondary Text Color"
+msgstr ""
+
+#: ../inc/customizer.php:204
+msgid "Main Menu Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:214
+msgid "Highlight Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:222
+msgid "Theme Options"
+msgstr ""
+
+#: ../inc/customizer.php:223
+msgid "Deadline Theme Options"
+msgstr ""
+
+#: ../inc/customizer.php:227
+msgid "Header"
+msgstr ""
+
+#: ../inc/customizer.php:238
+msgid "Display site title and tagline in the header."
+msgstr ""
+
+#: ../inc/customizer.php:244
+msgid "Front Page"
+msgstr ""
+
+#: ../inc/customizer.php:255
+msgid "Show Featured Posts Section on the Front Page"
+msgstr ""
+
+#: ../inc/customizer.php:266
+msgid "Show the post dates for the Featured Posts"
+msgstr ""
+
+#: ../inc/customizer.php:278
+msgid "Front Page: Featured Tag"
+msgstr ""
+
+#: ../inc/customizer.php:279
+#, php-format
+msgid "This list is populated with <a href=\"%1$s\">Post Tags</a>."
+msgstr ""
+
+#: ../inc/customizer.php:292
+msgid "Show Featured Categories Section on the Front Page"
+msgstr ""
+
+#: ../inc/customizer.php:303
+msgid "Show the post dates for the Featured Categories"
+msgstr ""
+
+#: ../inc/customizer.php:315
+msgid "Front Page: Featured Category #1"
+msgstr ""
+
+#: ../inc/customizer.php:316 ../inc/customizer.php:368 ../inc/customizer.php:420 .
+#: ./inc/customizer.php:472 ../inc/customizer.php:524
+#, php-format
+msgid "This list is populated with <a href=\"%1$s\">Categories</a>."
+msgstr ""
+
+#: ../inc/customizer.php:328
+msgid "Featured Category #1 Color Style"
+msgstr ""
+
+#: ../inc/customizer.php:333 ../inc/customizer.php:385 ../inc/customizer.php:437 .
+#: ./inc/customizer.php:489 ../inc/customizer.php:541
+msgid "Black"
+msgstr ""
+
+#: ../inc/customizer.php:334 ../inc/customizer.php:386 ../inc/customizer.php:438 .
+#: ./inc/customizer.php:490 ../inc/customizer.php:542
+msgid "Blue"
+msgstr ""
+
+#: ../inc/customizer.php:335 ../inc/customizer.php:387 ../inc/customizer.php:439 .
+#: ./inc/customizer.php:491 ../inc/customizer.php:543
+msgid "Green"
+msgstr ""
+
+#: ../inc/customizer.php:336 ../inc/customizer.php:388 ../inc/customizer.php:440 .
+#: ./inc/customizer.php:492 ../inc/customizer.php:544
+msgid "Orange"
+msgstr ""
+
+#: ../inc/customizer.php:337 ../inc/customizer.php:389 ../inc/customizer.php:441 .
+#: ./inc/customizer.php:493 ../inc/customizer.php:545
+msgid "Pink"
+msgstr ""
+
+#: ../inc/customizer.php:338 ../inc/customizer.php:390 ../inc/customizer.php:442 .
+#: ./inc/customizer.php:494 ../inc/customizer.php:546
+msgid "Purple"
+msgstr ""
+
+#: ../inc/customizer.php:339 ../inc/customizer.php:391 ../inc/customizer.php:443 .
+#: ./inc/customizer.php:495 ../inc/customizer.php:547
+msgid "Red"
+msgstr ""
+
+#: ../inc/customizer.php:340 ../inc/customizer.php:392 ../inc/customizer.php:444 .
+#: ./inc/customizer.php:496 ../inc/customizer.php:548
+msgid "Red2"
+msgstr ""
+
+#: ../inc/customizer.php:341 ../inc/customizer.php:393 ../inc/customizer.php:445 .
+#: ./inc/customizer.php:497 ../inc/customizer.php:549
+msgid "Yellow"
+msgstr ""
+
+#: ../inc/customizer.php:351
+msgid "Featured Category #1 Layout"
+msgstr ""
+
+#: ../inc/customizer.php:356 ../inc/customizer.php:408 ../inc/customizer.php:460 .
+#: ./inc/customizer.php:512 ../inc/customizer.php:564 ../inc/customizer.php:809
+msgid "Default"
+msgstr ""
+
+#: ../inc/customizer.php:357 ../inc/customizer.php:409 ../inc/customizer.php:461 .
+#: ./inc/customizer.php:513 ../inc/customizer.php:565
+msgid "Reverted"
+msgstr ""
+
+#: ../inc/customizer.php:367
+msgid "Front Page: Featured Category #2"
+msgstr ""
+
+#: ../inc/customizer.php:380
+msgid "Featured Category #2 Color Style"
+msgstr ""
+
+#: ../inc/customizer.php:403
+msgid "Featured Category #2 Layout"
+msgstr ""
+
+#: ../inc/customizer.php:419
+msgid "Front Page: Featured Category #3"
+msgstr ""
+
+#: ../inc/customizer.php:432
+msgid "Featured Category #3 Color Style"
+msgstr ""
+
+#: ../inc/customizer.php:455
+msgid "Featured Category #3 Layout"
+msgstr ""
+
+#: ../inc/customizer.php:471
+msgid "Front Page: Featured Category #4"
+msgstr ""
+
+#: ../inc/customizer.php:484
+msgid "Featured Category #4 Color Style"
+msgstr ""
+
+#: ../inc/customizer.php:507
+msgid "Featured Category #4 Layout"
+msgstr ""
+
+#: ../inc/customizer.php:523
+msgid "Front Page: Featured Category #5"
+msgstr ""
+
+#: ../inc/customizer.php:536
+msgid "Featured Category #5 Color Style"
+msgstr ""
+
+#: ../inc/customizer.php:559
+msgid "Featured Category #5 Layout"
+msgstr ""
+
+#: ../inc/customizer.php:570
+msgid "Footer"
+msgstr ""
+
+#: ../inc/customizer.php:581
+msgid "Show uploaded logo in the footer."
+msgstr ""
+
+#: ../inc/customizer.php:595
+msgid "Footer Logo Image"
+msgstr ""
+
+#: ../inc/customizer.php:619 ../inc/customizer.php:672
+msgid "None"
+msgstr ""
+
+#: ../inc/jetpack.php:43
+msgid "Load more posts"
+msgstr ""
+
+#: ../inc/plugin-enhancements.php:82
+#, php-format
+msgid "The %1$s is necessary to use some of this theme&rsquo;s features, including: "
+msgstr ""
+
+#: ../inc/plugin-enhancements.php:83
+msgid "Jetpack plugin"
+msgstr ""
+
+#: ../inc/plugin-enhancements.php:106
+msgid "Site Logo"
+msgstr ""
+
+#: ../inc/plugin-enhancements.php:115
+msgid "Featured Content"
+msgstr ""
+
+#: ../inc/plugin-enhancements.php:124
+msgid "Social Menu"
+msgstr ""
+
+#: ../inc/plugin-enhancements.php:133
+msgid "Menus"
+msgstr ""
+
+#: ../inc/plugin-enhancements.php:142
+msgid "Comics"
+msgstr ""
+
+#: ../inc/plugin-enhancements.php:151
+msgid "Testimonials"
+msgstr ""
+
+#: ../inc/plugin-enhancements.php:160
+msgid "Portfolios"
+msgstr ""
+
+#: ../inc/plugin-enhancements.php:178
+msgid "no specific module needed"
+msgstr ""
+
+#: ../inc/plugin-enhancements.php:179
+msgid "Custom Content Types module"
+msgstr ""
+
+#: ../inc/plugin-enhancements.php:256
+#, php-format
+msgid " Please activate %1$s. %2$s"
+msgstr ""
+
+#: ../inc/plugin-enhancements.php:258
+msgid "Activate"
+msgstr ""
+
+#: ../inc/plugin-enhancements.php:266
+#, php-format
+msgid " Please install %1$s. %2$s"
+msgstr ""
+
+#: ../inc/plugin-enhancements.php:268
+msgid "Install"
+msgstr ""
+
+#: ../inc/plugin-enhancements.php:293
+#, php-format
+msgid "To use %1$s, please activate the Jetpack plugin&rsquo;s %2$s."
+msgstr ""
+
+#: ../inc/plugin-enhancements.php:389
+msgid "Your request failed permission check."
+msgstr ""
+
+#: ../inc/plugin-enhancements.php:396
+msgid "Your request was processed. See ya!"
+msgstr ""
+
+#: ../inc/template-tags.php:22
+msgid "Pingback:"
+msgstr ""
+
+#: ../inc/template-tags.php:22 ../inc/template-tags.php:50
+msgid "Edit"
+msgstr ""
+
+#: ../inc/template-tags.php:40
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../inc/template-tags.php:46
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. translators: %s: Name of current post
+#: ../inc/template-tags.php:89
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: ../index.php:48
+msgid "Recent Posts"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width Page"
+msgstr ""
+
+#. Name of the template
+msgid "Sidebar-Page"
+msgstr ""
+
+#: ../search.php:21
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../template-parts/content-home-categories.php:116
+msgid "Featured Category Not Configured Yet"
+msgstr ""
+
+#: ../template-parts/content-home-featured.php:26
+msgid "Featured Posts"
+msgstr ""
+
+#: ../template-parts/content-home-featured.php:45 ../template-parts/content-home-
+#: featured.php:65 ../template-parts/content.php:24
+msgctxt "Used on archive and post pages to separate multiple categories."
+msgid ", "
+msgstr ""
+
+#: ../template-parts/content-home-featured.php:95
+msgid "No Featured Posts Found"
+msgstr ""
+
+#: ../template-parts/content-home-featured.php:98
+msgid ""
+"This section will display your featured posts. Configure (or disable) it via "
+"the Customizer."
+msgstr ""
+
+#: ../template-parts/content-home-featured.php:99
+#, php-format
+msgid ""
+"You can mark your posts with a \"Featured\" tag on the Edit Post page. <a "
+"href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../template-parts/content-home-featured.php:100
+msgid ""
+"Important: This message is NOT visible to site visitors, only to admins and "
+"editors."
+msgstr ""
+
+#: ../template-parts/content-none.php:17
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../template-parts/content-none.php:21
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../template-parts/content-none.php:25
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: ../template-parts/content-page.php:23 ../template-parts/content-single.php:25
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../template-parts/content-page.php:30 ../template-parts/content-single.php:32
+msgid "Pages:"
+msgstr ""
+
+#: ../template-parts/content-single.php:16
+msgid "By"
+msgstr ""
+
+#: ../template-parts/content-single.php:17
+msgid "in"
+msgstr ""
+
+#: ../template-parts/content-single.php:38
+msgid ", "
+msgstr ""
+
+#: ../template-parts/content-single.php:40
+#, php-format
+msgid "Tags: %1$s"
+msgstr ""
+
+#: ../template-parts/content.php:34
+msgid "Sticky"
+msgstr ""
+
+#. Name of the theme
+msgid "Deadline"
+msgstr ""
+
+#. Theme URI of the theme
+msgid "http://www.ilovewp.com/themes/deadline/"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Deadline is a traditional blog/magazine theme with focus on content and "
+"readability, with an intuitive design and two-column layout. The Front Page "
+"provides the ability to highlight your main posts as well as feature up to 5 "
+"different post categories."
+msgstr ""
+
+#. Author of the theme
+msgid "ilovewpcom"
+msgstr ""
+
+#. Author URI of the theme
+msgid "http://www.ilovewp.com/"
+msgstr ""
